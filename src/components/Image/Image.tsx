@@ -1,3 +1,5 @@
+// Компонент отвечает за изображения
+
 type ImageType = {
   src: string,
   alt: string

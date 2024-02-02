@@ -1,3 +1,5 @@
+// Компонент отвечает за элемент списка
+
 export type ListItemType = {
   src?: string,
   alt?: string,

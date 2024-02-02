@@ -1,3 +1,5 @@
+// Компонент отвечает за создание карточки
+
 type UsefulCardType = {
   title: string,
   children: React.ReactNode

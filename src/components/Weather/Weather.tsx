@@ -1,3 +1,5 @@
+// Компонент отвечает за содержимое карточки погоды
+
 export type WeatherType = {
   items: {
     src: string,

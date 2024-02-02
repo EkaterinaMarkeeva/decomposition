@@ -1,3 +1,5 @@
+// Компонент отвечает за создание списка
+
 import { ListItem } from "../Item/ListItem";
 
 type ListType = {
